@@ -2,20 +2,20 @@
 
 An exploratory data analysis and machine learning project on a bank marketing dataset to understand customer behaviour and predict term deposit subscription.
 
-### 📊 Dataset
+### Dataset
 Bank marketing dataset containing customer demographics, financial details, and campaign-related features such as job, marital status, education, balance, and previous outcomes.
 
-### 🛠️ Tools
+### Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn (SMOTE)
 
-### 🔍 Key Insights
+### Key Insights
 - Categorical features (job, marital status, education, contact, previous outcome) show clear patterns with subscription  
 - Duration, balance, and age are the most influential numerical features  
 - Customers with successful previous campaign outcomes are significantly more likely to subscribe  
 
 ---
 
-### 🤖 Modelling
+### Modelling
 
 **Baseline (Imbalanced Data)**
 - Logistic Regression & Random Forest trained on raw data  
